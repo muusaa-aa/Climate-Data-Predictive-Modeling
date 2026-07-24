@@ -1,5 +1,3 @@
-# Climate-Data-Predictive-Modeling
-
 # Climate Data Predictive Modeling 🌤️📊
 
 ## Overview
