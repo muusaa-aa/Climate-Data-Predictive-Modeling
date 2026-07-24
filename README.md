@@ -29,7 +29,7 @@ This repository contains a data analysis and machine learning project focused on
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Project documentation
 Workflow & Methodology1. Data Preprocessing & CleaningNormalized raw multi-city meteorological parameters.Filtered outliers and filled missing entries using temporal interpolation.2. Visualization & InsightsBuilt multi-line time series plots showing cross-city temperature dynamics.Generated comparative histograms
-
-Author
-Musab Jamaleldien Mohamed Yousif
 highlighting rainfall frequency and volume distributions.3. Predictive ModelingTo account for non-linear seasonal climate shifts, a Polynomial Regression approach was applied:Evaluated polynomial degrees to strike the optimal balance between bias and variance.Assessed performance using Root Mean Squared Error (RMSE) and $R^2$ metrics.
+
+## Author
+Musab Jamaleldien Mohamed Yousif
